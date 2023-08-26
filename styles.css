@@ -1,0 +1,18 @@
+*
+{font-family: 'Courier New', Courier, monospace
+    ;}
+img 
+   {height: auto;
+   width: 250px;}
+ul
+   {color: ;}
+.recipe-button {
+    background-color: lightskyblue;
+    border:none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+}
